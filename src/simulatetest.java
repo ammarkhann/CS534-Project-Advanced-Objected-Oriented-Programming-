@@ -10,7 +10,7 @@ public class simulatetest {
     world world = new world(4,50,25,10);
     world.initializeWorld();
     world.simulate();
-        
+
     }
 
 
